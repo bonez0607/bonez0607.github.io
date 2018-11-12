@@ -21,13 +21,13 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: https://github.com/bonez0607
+  github: "bonez0607"
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
-  stackoverflow: "/users/4881490/joe-b"
+  stackoverflow: "users/4881490/joe-b"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
