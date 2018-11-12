@@ -1,14 +1,8 @@
----
 layout: post
-title: First post!
+title: You're up and running!
 ---
 
-#This is my first post
-
-I am test this to to see if it works. 
-
-I plan to use this to help document some of my learnings, a place to store my findings, and a document record to help me see my growth.  This will primarily be web based, but will also include other aspects of my life. 
-
+Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
